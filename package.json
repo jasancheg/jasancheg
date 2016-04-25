@@ -1,0 +1,15 @@
+{
+  "name": "jasancheg",
+  "version": "1.0.2",
+  "description": "Jose Antonio Sanchez - Software Developer",
+  "author": "Jose Antonio Sanchez",
+  "main": "./index.json",
+  "scripts": {
+    "postinstall": "cat index.json"
+  },
+  "keywords": [
+    "person",
+    "contact"
+  ],
+  "license": "MIT"
+}
