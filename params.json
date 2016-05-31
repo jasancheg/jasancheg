@@ -1,0 +1,6 @@
+{
+  "name": "Jasancheg",
+  "tagline": "Jose Antonio Sanchez - Toni, http://inideaweb.com/",
+  "body": "# jasancheg\r\n\r\n> Jose Antonio Sanchez - Toni\r\n\r\n# install\r\n\r\nAs a `postinstall` script.\r\n\r\n```bash\r\nnpm install jasancheg\r\n```\r\n\r\nAs a JSON object.\r\n\r\n```js\r\nconsole.log(require('jasancheg'));\r\n```\r\n\r\n# credits\r\n\r\n[@gaboesquivel](https://github.com/gaboesquivel/gaboesquivel) [@jasancheg](https://github.com/jasancheg/jasancheg)\r\n\r\n# license\r\n\r\nMIT\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
